@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UK9j08VRUPgqB20G4s9YBPiqM2iZ0JonpaHpwxgFrIg28tRalyKdzRJy/ha0JUuUU542VAiWOBxQ8Xp1rlYLNw==",
+  "dgSpecHash": "wqufpQoV9xs8v2vWBeowT23bSmZs0LlCUWok1JWx4yV5Ruq1BlqZ9un53KfVrj3kdI9grtnJjTXUdlooNcaOSw==",
   "success": true,
   "projectFilePath": "E:\\C# Works\\EF_Practicals\\my-books\\my-books.csproj",
   "expectedPackageFiles": [
@@ -45,6 +45,7 @@
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
